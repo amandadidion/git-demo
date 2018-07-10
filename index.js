@@ -1,1 +1,1 @@
-var myname="Amanda"
+var myname="Amanda Didion"
